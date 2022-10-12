@@ -1,0 +1,6 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_KK\bin\Assignment1_KK.dll.config
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_KK\bin\Assignment1_KK.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_KK\bin\Assignment1_KK.pdb
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_KK\obj\Debug\Assignment1_KK.csproj.CoreCompileInputs.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_KK\obj\Debug\Assignment1_KK.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_KK\obj\Debug\Assignment1_KK.pdb

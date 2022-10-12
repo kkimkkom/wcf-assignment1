@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="870e3e8e-4e59-4753-9c37-b5a41dfddef4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1423/Functions.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Functions.xsd" MetadataType="Schema" ID="7724f740-17cc-4321-8701-a5e07636eda3" SourceId="1" SourceUrl="http://localhost:1423/Functions.svc?xsd=xsd1" />
+    <MetadataFile FileName="Functions.wsdl" MetadataType="Wsdl" ID="fcb62451-b130-4711-94a2-b4aa5220434c" SourceId="1" SourceUrl="http://localhost:1423/Functions.svc?wsdl" />
+    <MetadataFile FileName="Functions1.xsd" MetadataType="Schema" ID="b6875abd-43f0-4edb-bf8b-8d029c84452c" SourceId="1" SourceUrl="http://localhost:1423/Functions.svc?xsd=xsd2" />
+    <MetadataFile FileName="Functions2.xsd" MetadataType="Schema" ID="a8c65707-3c57-49b0-9651-9f3aea3d9271" SourceId="1" SourceUrl="http://localhost:1423/Functions.svc?xsd=xsd0" />
+    <MetadataFile FileName="Functions.disco" MetadataType="Disco" ID="ba1b320a-b40d-4ca0-b7d1-d019e6db6372" SourceId="1" SourceUrl="http://localhost:1423/Functions.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,6 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_Client_KK\bin\Debug\Assignment1_Client_KK.exe.config
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_Client_KK\bin\Debug\Assignment1_Client_KK.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_Client_KK\bin\Debug\Assignment1_Client_KK.pdb
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_Client_KK\obj\Debug\Assignment1_Client_KK.csproj.CoreCompileInputs.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_Client_KK\obj\Debug\Assignment1_Client_KK.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\A1\wcf-assignment1\Assignment1_KK\Assignment1_Client_KK\obj\Debug\Assignment1_Client_KK.pdb

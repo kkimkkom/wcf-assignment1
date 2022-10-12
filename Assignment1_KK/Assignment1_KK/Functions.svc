@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Assignment1_KK.Functions" CodeBehind="Functions.svc.cs" %>
